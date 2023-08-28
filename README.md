@@ -1,6 +1,6 @@
-# Projeto Robo
+# 🤖 Projeto Robo
 
-## Setup Site
+##  Setup Site
 
 - Node v20
 ```bash
@@ -24,6 +24,7 @@ dotnet restore
 ```bash
 dotnet build
 ```
+URL API de desenvolvimento `https://localhost:7126`:
 ```bash
 dotnet watch run
 ```
