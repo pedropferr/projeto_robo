@@ -1,0 +1,24 @@
+# Arquivos gerados pela compilação
+/bin/
+/obj/
+*.exe
+*.dll
+*.pdb
+*.v2
+*.vsidx
+*.bin
+*.manifest
+*.testlog
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de dependências gerados
+/packages/
+*.nupkg
+
+# Arquivos de configuração do NuGet
+*.nuget.targets
